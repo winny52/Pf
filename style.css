@@ -13,7 +13,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background: linear-gradient(100deg, white,green );
+  background: linear-gradient(90deg, white,#06402B );
 }
 
 html {
@@ -196,6 +196,7 @@ section {
 
 .section__text p {
   font-weight: 600;
+  
 }
 
 .section__text__p1 {
